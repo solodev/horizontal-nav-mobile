@@ -1,6 +1,6 @@
 # horizontal-nav-mobile
 
-Your customers and clients love your brand, and they even admitted it online! Showcase those statements in this stylish testimonial slider tutorial. 
+One of the biggest tricks to successful mobile design is ensuring that your navigation remains functional and user-friendly even if the design changes.
 
 
   		  
